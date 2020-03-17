@@ -1,0 +1,19 @@
+body {
+  background-color: burlywood;
+}
+
+.tapasya {
+  color: blue;
+  background-color: aqua;
+  padding: 10px 50px;
+}
+
+.sonya {
+  color: black;
+}
+
+.content {
+  padding: 10px 50px;
+  background-color: yellow;
+  margin: 50px 0;
+}
