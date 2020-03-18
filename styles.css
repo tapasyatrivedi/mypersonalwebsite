@@ -3,9 +3,9 @@ body {
 }
 
 .hero {
-  color: blue;
-  background-color: aqua;
-  padding: 100px;
+  color: black;
+  background-color: #e2b86a;
+  padding: 50px;
   text-align: center;
 }
 
@@ -20,5 +20,12 @@ body {
 }
 
 .bg-example {
-  background-color: #32a852;
+  background-color: burlywood;
+}
+.navigation {
+  text-align: left;
+  padding: 15px;
+}
+.supporting {
+  font-size: larger;
 }
