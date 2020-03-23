@@ -1,18 +1,17 @@
-body {
-  background-color: burlywood;
+.body {
+  background-color: white;
 }
 
+.html {
+  height: 100%;
+  width: 100%;
+}
 .hero {
   color: black;
-  background-color: #e2b86a;
-  padding: 50px;
+  background-color: white;
+  padding: 25px;
   text-align: center;
 }
-
-.sonya {
-  color: black;
-}
-
 .content {
   padding: 10px 50px;
   background-color: yellow;
@@ -20,12 +19,72 @@ body {
 }
 
 .bg-example {
-  background-color: burlywood;
+  background-color: #f1cb84;
+  font-style: italic;
+  font-family: 'Gotu', sans-serif;
+  padding: .8rem;
 }
+
+.navbar-nav li {
+  padding-right: 10px;
+}
+
+.nav-link {
+  font-size: 1.1em !important;
+}
+
 .navigation {
   text-align: left;
-  padding: 15px;
+  background-image: url(https://i.pinimg.com/originals/85/b2/ce/85b2cebb1d8c2bb5d87f2eabe0f52da8.jpg);
+  padding: 210px 250px;
+  font-style: italic;
+  font-family: 'Anton', sans-serif; 
+
+  background-size: cover
 }
-.supporting {
-  font-size: larger;
+
+.btn-primary {
+  background-color: #f1cb84;
+  border: 1px solid #cfa75c;
 }
+
+.btn-primary:hover {
+  background-color: #cfa75c;
+  border: 1px solid #cfa75c;
+}
+
+.padding {
+  padding-bottom: 2rem;
+}
+.welcome {
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+.welcome hr {
+  border-top: 2px solid #b4b4b4;
+  width: 95%;
+  margin-top: .3rem;
+  margin-bottom: 1 rem;
+}
+.social a {
+  font-size: 4.5em;
+  padding: 3rem;
+}
+.box {
+  background-image: url(https://images.8tracks.com/cover/i/009/817/533/Abstract_2_1000-9365.jpg?rect=0,0,1000,1000&q=98&fm=jpg&fit=max);
+  padding: 210px 100px;
+  margin: 0px;
+}
+
+.box3 {
+  background-image: url(https://image.freepik.com/free-photo/black-marbled-surface_53876-90798.jpg);
+  padding: 210px 100px;
+}
+
+.newFont {
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 1000;
+  font-style: italic;
+}
+.
